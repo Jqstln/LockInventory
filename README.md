@@ -8,7 +8,7 @@
   <h3 align="center">LockInventory</h3>
 
   <p align="center">
-    project_description
+    Want not to move your items in the hub? This plugin does. (open-source version)
     <br />
     <br />
     <a href="https://justinharing.nl/lockinventory">View Demo</a>
