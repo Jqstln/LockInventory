@@ -1,0 +1,9 @@
+main: com.justinnndev.lockinventory.Main
+name: LockInventory
+version: 1.0.5
+description: This plugin locks your inventory, for not moving out items.
+author: JustinnnDev
+commands:
+  lockinventory:
+    permission: lockinventory.use
+    usage: /lockinventory - Toggles.
