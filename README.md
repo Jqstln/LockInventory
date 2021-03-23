@@ -7,8 +7,8 @@
     </p>
   </a>
 
-  <h3 align="center">LockInventory</h3>
-
+<!--
+<h3 align="center">LockInventory</h3>
   <p align="center">
     Want not to move your items in the hub? This plugin does. (open-source version)
     <br />
@@ -20,6 +20,7 @@
     <a href="https://github.com/JustinnnDev/LockInventory/issues">Request Feature</a>
   </p>
 </p>
+-->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
