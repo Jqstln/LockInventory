@@ -1,8 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="1000" height="500">
+  <p>
+    This project (plugin) will be paused for now, 
+    until I have enough time myself or if people want me to continue.
+    </p>
   </a>
 
   <h3 align="center">LockInventory</h3>
